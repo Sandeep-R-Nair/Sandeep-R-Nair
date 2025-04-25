@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Sandeep R Nair</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1DA1F2&center=true&vCenter=true&width=440&lines=Android+Developer;Kotlin+%7C+MVVM+%7C+Retrofit;Lifelong+learner+%F0%9F%93%9A+%7C+Builder+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1DA1F2&center=true&vCenter=true&width=440&lines=Android+Developer;Kotlin/Java+%7C+Jetpack+Compose+%7C+Flutter;Lifelong+learner+%F0%9F%93%9A+%7C+Builder+%F0%9F%9A%80" />
 </p>
 
 ---
